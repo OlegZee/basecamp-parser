@@ -1,0 +1,102 @@
+[{
+    "id": 1526011644,
+    "status": "active",
+    "visible_to_clients": false,
+    "created_at": "2019-01-12T13:53:17.218Z",
+    "updated_at": "2019-02-19T03:46:59.457Z",
+    "title": "Написать деврелу озона",
+    "inherits_status": true,
+    "type": "Todo",
+    "url": "https://3.basecamp.com/3152562/buckets/8281413/todos/1526011644.json",
+    "app_url": "https://3.basecamp.com/3152562/buckets/8281413/todos/1526011644",
+    "bookmark_url": "https://3.basecamp.com/3152562/my/bookmarks/BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL1JlY29yZGluZy8xNTI2MDExNjQ0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg1yZWFkYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--d781bfda80de870463a0e7e93d82f53973d1c7af.json",
+    "comments_count": 1,
+    "comments_url": "https://3.basecamp.com/3152562/buckets/8281413/recordings/1526011644/comments.json",
+    "parent": {
+        "id": 1303394617,
+        "title": "Заявка Backend",
+        "type": "Todolist",
+        "url": "https://3.basecamp.com/3152562/buckets/8281413/todolists/1303394617.json",
+        "app_url": "https://3.basecamp.com/3152562/buckets/8281413/todolists/1303394617"
+    },
+    "bucket": {
+        "id": 8281413,
+        "name": "CodeFest 🎪 X",
+        "app_url": "https://3.basecamp.com/3152562/buckets/8281413",
+        "type": "Project"
+    },
+    "creator": {
+        "id": 21263706,
+        "attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yMTI2MzcwNj9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--5231ba4627459d74938679e4a031b7c2287c949a",
+        "name": "Romanenko Alex",
+        "email_address": "romanenko@codefest.ru",
+        "personable_type": "User",
+        "title": "Backend-секция",
+        "bio": "",
+        "created_at": "2018-09-20T03:08:50.188Z",
+        "updated_at": "2018-09-28T13:42:29.462Z",
+        "admin": false,
+        "owner": false,
+        "client": false,
+        "time_zone": "Asia/Bangkok",
+        "avatar_url": "https://3.basecamp-static.com/3152562/people/BAhpBFp1RAE=--7baaa3df2b3b38c550b66d1f7901e3d9bcbf0360/avatar-64-x4?v=1",
+        "avatar_kind": "custom",
+        "company": {
+            "id": 1116598,
+            "name": "CodeFest"
+        }
+    },
+    "description": "Abc abc abc",
+    "subscription_url": "https://3.basecamp.com/3152562/buckets/8281413/recordings/1526011644/subscription.json",
+    "completed": true,
+    "completion": {
+        "created_at": "2019-02-19T03:46:59.407Z",
+        "creator": {
+            "id": 21263706,
+            "attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yMTI2MzcwNj9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--5231ba4627459d74938679e4a031b7c2287c949a",
+            "name": "Romanenko Alex",
+            "email_address": "romanenko@codefest.ru",
+            "personable_type": "User",
+            "title": "Backend-секция",
+            "bio": "",
+            "created_at": "2018-09-20T03:08:50.188Z",
+            "updated_at": "2018-09-28T13:42:29.462Z",
+            "admin": false,
+            "owner": false,
+            "client": false,
+            "time_zone": "Asia/Bangkok",
+            "avatar_url": "https://3.basecamp-static.com/3152562/people/BAhpBFp1RAE=--7baaa3df2b3b38c550b66d1f7901e3d9bcbf0360/avatar-64-x4?v=1",
+            "avatar_kind": "custom",
+            "company": {
+                "id": 1116598,
+                "name": "CodeFest"
+            }
+        }
+    },
+    "content": "Написать деврелу озона",
+    "starts_on": null,
+    "due_on": "2019-01-15",
+    "assignees": [{
+        "id": 21263706,
+        "attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yMTI2MzcwNj9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--5231ba4627459d74938679e4a031b7c2287c949a",
+        "name": "Romanenko Alex",
+        "email_address": "romanenko@codefest.ru",
+        "personable_type": "User",
+        "title": "Backend-секция",
+        "bio": "",
+        "created_at": "2018-09-20T03:08:50.188Z",
+        "updated_at": "2018-09-28T13:42:29.462Z",
+        "admin": false,
+        "owner": false,
+        "client": false,
+        "time_zone": "Asia/Bangkok",
+        "avatar_url": "https://3.basecamp-static.com/3152562/people/BAhpBFp1RAE=--7baaa3df2b3b38c550b66d1f7901e3d9bcbf0360/avatar-64-x4?v=1",
+        "avatar_kind": "custom",
+        "company": {
+            "id": 1116598,
+            "name": "CodeFest"
+        }
+    }],
+    "completion_subscribers": [],
+    "completion_url": "https://3.basecamp.com/3152562/buckets/8281413/todos/1526011644/completion.json"
+}]
